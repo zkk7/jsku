@@ -121,7 +121,7 @@
 	.myui-panel__head .title, .myui-panel__head .title a{ font-size: 18px;}
 	
 	/* header */ 
-	.myui-header__logo img{ max-width: 160px;}
+	.myui-header__logo img{ max-width: 140px;}
 	.myui-header__top{ padding: 0 10px;}
 	.myui-header__search{ position:absolute; top: -100%; left: 10px; right: 10px; margin-left: 0; width: auto; padding-right: 30px;}
 	.myui-header__search .form-control{ height: 32px; padding: 0 10px; border-radius: 16px;}
