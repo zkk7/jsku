@@ -13,6 +13,7 @@ input,select{font-size:12px;vertical-align:middle; border:none;}
 ul,li{list-style-type:none;}
 img{border:0 none;}
 p{margin:0 0 10px;}
+.myui-foot{ background-color: #f8f8f8;}
 
 /* container */
 *{-webkit-box-sizing:border-box; -moz-box-sizing:border-box; box-sizing:border-box}
